@@ -1,0 +1,46 @@
+# User Registration System
+
+A simple user registration system using HTML for the front-end, Node.js for the back-end, and MongoDB for data storage.
+
+
+## Overview
+
+This project provides a basic user registration system that allows users to sign up and store their information securely in a MongoDB database. The system includes a registration form created using HTML and styled with CSS. The back-end, built with Node.js, handles form submissions and stores user data in MongoDB.
+
+## Features
+
+- User-friendly registration form.
+- Secure storage of user information in MongoDB.
+- Express server for handling form submissions.
+
+## Requirements
+
+Make sure you have the following installed on your machine:
+
+- Node.js
+- MongoDB
+
+## Installation
+
+ Clone the repository:
+   git clone https://github.com/Aryan-Singh1011/user-registration-system.git
+
+Navigate to the project directory:
+ cd user-registration-system
+
+Install dependencies:
+ npm install
+
+Start the server:
+ node app.js
+
+
+Usage:-
+ Access the registration form in your browser at http://localhost:3000.
+ Fill out the form with a username, email, and password.
+ Submit the form to register a new user.
+ Check the server console for registration success or error messages.
+
+
+Contributing:-
+ Feel free to contribute to the project. If you find any issues or have suggestions, please open an issue or submit a pull request.
